@@ -1,6 +1,6 @@
 # explain
 
-一个 skill：**讲清一个东西，四块，60 行以内。**
+一个 Claude Code skill：**讲清一个东西，四块，60 行以内。**
 
 核心判断很简单——
 
@@ -37,7 +37,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/Hiaa1/meta-learning.git ~/.claude/skills/explain
+git clone https://github.com/Hiaa1/explain.git ~/.claude/skills/explain
 ```
 
 放进 `~/.claude/skills/` 对所有项目生效；放进项目里的 `.claude/skills/` 只对该项目生效。
